@@ -77,6 +77,8 @@ class WordListFragment : Fragment() {
         )
     }
 
+    //
+
     /**
      * Frees the binding object when the Fragment is destroyed.
      */
